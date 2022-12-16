@@ -1,18 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "@reduxjs/toolkit": "^1.9.1",
-    "react-redux": "^8.0.5",
-    "styled-components": "^5.3.6"
-  },
-  "devDependencies": {
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.6.1",
-    "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-react": "^7.31.11",
-    "eslint-plugin-react-hooks": "^4.6.0"
-=======
   "name": "friendly-octo-succotash",
   "version": "0.1.0",
   "private": true,
@@ -48,6 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 3cf9eac5614438b4c32835862bb961aaa6df5569
   }
 }
