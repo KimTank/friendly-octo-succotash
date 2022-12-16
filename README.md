@@ -1,2 +1,13 @@
-# friendly-octo-succotash
-221216 todo app
+# todo app
+
+## function
+
+- read
+- create
+- update
+- delete
+
+## crew
+
+kimtank
+
